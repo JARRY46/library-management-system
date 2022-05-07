@@ -26,7 +26,7 @@ int main(){
 
     while(1){
         system("cls");
-        printf("<== Library Management System ==>\n");
+        printf("<== LIBRARY MANAGEMENT SYSTEM ==>\n");
         printf("1.Add Book\n");
         printf("2.Books List\n");
         printf("3.Remove Book\n");
